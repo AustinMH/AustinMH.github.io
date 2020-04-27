@@ -1,0 +1,283 @@
+<Events xmlns="urn:cde.berkeley.edu:babl:events:1.00" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:cde.berkeley.edu:babl:events:1.00 UCBCNEvents_1.9.xsd">
+    <Event>
+        <EventID>127974</EventID>
+        <EventTitle>Information Session</EventTitle>
+        <EventSubtitle>Travel and Build Block Homes in Guatemala</EventSubtitle>
+        <DateTime>
+            <StartDate>2020-01-09T04:00:00-06:00</StartDate>
+            <StartTime>04:00:00Z</StartTime>
+            <EndDate>2020-01-09T05:00:00-06:00</EndDate>
+            <EndTime>05:00:00Z</EndTime>
+        </DateTime>
+        <Locations>
+            <Location>
+                <LocationID>13240</LocationID>
+                <LocationName>Center for Civic Engagement</LocationName>
+                <LocationTypes>
+                    <LocationType />
+                </LocationTypes>
+                <Address>
+                    <Room>222 Nebraska Union</Room>
+                    <BuildingName>Center for Civic Engagement</BuildingName>
+                    <CityName>Lincoln</CityName>
+                    <PostalZone />
+                    <CountrySubentityCode>Ne</CountrySubentityCode>
+                    <Country>
+                        <IdentificationCode xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-1.0" codeListID="ISO3166-1" codeListAgencyID="6" codeListAgencyName="United Nations Economic Commission for Europe" codeListName="Country" codeListVersionID="0.3" languageID="en" codeListURI="http://www.iso.org/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1-semic.txt" codeListSchemeURI="urn:oasis:names:specification:ubl:schema:xsd:CountryIdentificationCode-1.0">US</IdentificationCode>
+                        <Name xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-1.0">United States</Name>
+                    </Country>
+                </Address>
+                <Phones>
+                    <Phone>
+                        <PhoneNumber />
+                    </Phone>
+                </Phones>
+                <WebPages>
+                    <WebPage>
+                        <Title>Location Web Page</Title>
+                        <URL>engage.unl.edu</URL>
+                    </WebPage>
+                </WebPages>
+                <MapLinks>
+                    <MapLink />
+                </MapLinks>
+                <LocationHours />
+                <Directions />
+                <AdditionalPublicInfo />
+            </Location>
+        </Locations>
+        <EventTypes>
+            <EventType>
+                <EventTypeID>18</EventTypeID>
+                <EventTypeName>Information Session</EventTypeName>
+                <EventTypeDescription>Information Session</EventTypeDescription>
+            </EventType>
+        </EventTypes>
+        <Languages>
+            <Language>en-US</Language>
+        </Languages>
+        <EventTransparency />
+        <Description>
+            Flanked by mountains and three volcanoes, Antigua, Guatemala, combines colonial architecture with Mayan influence. Guatemala has a complex history and a rich culture and lifestyle. Students will participate in salsa dance lesssons, making chocolate, playing soccor with the masons, and attend the markets. While in Guatemala, participants will assist masons in building a block home for a local Mayan family. Students will register for Sociology 398 for credit hours. Spanish is not required, however, if you are looking to increase your spanish speaking skills, Guatemala is an excellent site. Student will enjoy the accomodations and conversations with our host family. If you are interested in learning more about this opportunity, register for our upcoming information meeting at https://givepul.se/uzrhg2 or schedule an appointment with us at civic.engagement@unl.edu.
+        </Description>
+        <ShortDescription />
+        <Refreshments />
+        <WebPages>
+            <WebPage>
+                <Title>Event Instance URL</Title>
+                <URL>//events.unl.edu/studentaffairs/2020/01/09/146757/</URL>
+            </WebPage>
+            <WebPage>
+                <Title>Event webpage</Title>
+                <URL>https://givepul.se/uzrhg2</URL>
+            </WebPage>
+        </WebPages>
+        <Images>
+            <Image>
+                <Title>Image</Title>
+                <Description>image for event 127974</Description>
+                <URL>//events.unl.edu/?image&id=127974</URL>
+            </Image>
+        </Images>
+        <EventListingContacts>
+            <EventListingContact>
+                <ContactName>
+                    <FullName>Linda Moody</FullName>
+                </ContactName>
+                <Phones>
+                    <Phone>
+                        <PhoneNumber>402-472-6150</PhoneNumber>
+                    </Phone>
+                </Phones>
+                <EmailAddresses>
+                    <EmailAddress>lmoody2@unl.edu</EmailAddress>
+                </EmailAddresses>
+            </EventListingContact>
+        </EventListingContacts>
+        <EventStatus>Happening As Scheduled</EventStatus>
+        <Classification>Public</Classification>
+    </Event>
+    <Event>
+        <EventID>127658</EventID>
+        <EventTitle>Non-break residence halls open after winter break</EventTitle>
+        <EventSubtitle />
+        <DateTime>
+            <StartDate>2020-01-10T13:00:00-06:00</StartDate>
+            <StartTime>13:00:00Z</StartTime>
+        </DateTime>
+        <Locations>
+            <Location>
+                <LocationID>13618</LocationID>
+                <LocationName>UNL Residence Halls</LocationName>
+                <LocationTypes>
+                    <LocationType />
+                </LocationTypes>
+                <Address>
+                    <Room />
+                    <BuildingName>UNL Residence Halls</BuildingName>
+                    <CityName />
+                    <PostalZone />
+                    <CountrySubentityCode />
+                    <Country>
+                        <IdentificationCode xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-1.0" codeListID="ISO3166-1" codeListAgencyID="6" codeListAgencyName="United Nations Economic Commission for Europe" codeListName="Country" codeListVersionID="0.3" languageID="en" codeListURI="http://www.iso.org/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1-semic.txt" codeListSchemeURI="urn:oasis:names:specification:ubl:schema:xsd:CountryIdentificationCode-1.0">US</IdentificationCode>
+                        <Name xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-1.0">United States</Name>
+                    </Country>
+                </Address>
+                <Phones>
+                    <Phone>
+                        <PhoneNumber />
+                    </Phone>
+                </Phones>
+                <WebPages>
+                    <WebPage>
+                        <Title>Location Web Page</Title>
+                        <URL />
+                    </WebPage>
+                </WebPages>
+                <MapLinks>
+                    <MapLink />
+                </MapLinks>
+                <LocationHours />
+                <Directions />
+                <AdditionalPublicInfo />
+            </Location>
+        </Locations>
+        <EventTypes>
+            <EventType>
+                <EventTypeID>70</EventTypeID>
+                <EventTypeName>Activity</EventTypeName>
+                <EventTypeDescription>Activity</EventTypeDescription>
+            </EventType>
+        </EventTypes>
+        <Languages>
+            <Language>en-US</Language>
+        </Languages>
+        <EventTransparency />
+        <Description>
+            Non-break residence halls open for the 2020 spring semester. Halls opening include: • Abel Hall • Harper Hall • Kauffman Residential Center • Love Memorial • Sandoz Hall
+        </Description>
+        <ShortDescription />
+        <Refreshments />
+        <WebPages>
+            <WebPage>
+                <Title>Event Instance URL</Title>
+                <URL>//events.unl.edu/studentaffairs/2020/01/10/146396/</URL>
+            </WebPage>
+        </WebPages>
+        <EventListingContacts>
+            <EventListingContact>
+                <ContactName>
+                    <FullName>Derek Niewohner</FullName>
+                </ContactName>
+                <Phones>
+                    <Phone>
+                        <PhoneNumber>402-472-7149</PhoneNumber>
+                    </Phone>
+                </Phones>
+                <EmailAddresses>
+                    <EmailAddress>derek.niewohner@unl.edu</EmailAddress>
+                </EmailAddresses>
+            </EventListingContact>
+        </EventListingContacts>
+        <EventStatus>Happening As Scheduled</EventStatus>
+        <Classification>Public</Classification>
+    </Event>
+    <Event>
+        <EventID>127508</EventID>
+        <EventTitle>Family Belay Lesson</EventTitle>
+        <EventSubtitle>Hosted by Outdoor Adventures: Campus Rec</EventSubtitle>
+        <DateTime>
+            <StartDate>2020-01-11T13:00:00-06:00</StartDate>
+            <StartTime>13:00:00Z</StartTime>
+            <EndDate>2020-01-11T16:00:00-06:00</EndDate>
+            <EndTime>16:00:00Z</EndTime>
+        </DateTime>
+        <Locations>
+            <Location>
+                <LocationID>19862</LocationID>
+                <LocationName>Outdoor Adventures Center</LocationName>
+                <LocationTypes>
+                    <LocationType />
+                </LocationTypes>
+                <Address>
+                    <Room />
+                    <BuildingName>Outdoor Adventures Center</BuildingName>
+                    <CityName>Lincoln</CityName>
+                    <PostalZone>68588</PostalZone>
+                    <CountrySubentityCode>NE</CountrySubentityCode>
+                    <Country>
+                        <IdentificationCode xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-1.0" codeListID="ISO3166-1" codeListAgencyID="6" codeListAgencyName="United Nations Economic Commission for Europe" codeListName="Country" codeListVersionID="0.3" languageID="en" codeListURI="http://www.iso.org/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1-semic.txt" codeListSchemeURI="urn:oasis:names:specification:ubl:schema:xsd:CountryIdentificationCode-1.0">US</IdentificationCode>
+                        <Name xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-1.0">United States</Name>
+                    </Country>
+                </Address>
+                <Phones>
+                    <Phone>
+                        <PhoneNumber>402-472-4777</PhoneNumber>
+                    </Phone>
+                </Phones>
+                <WebPages>
+                    <WebPage>
+                        <Title>Location Web Page</Title>
+                        <URL>shopcrec.unl.edu</URL>
+                    </WebPage>
+                </WebPages>
+                <MapLinks>
+                    <MapLink>https://goo.gl/maps/djakit1QigZpe67Y7</MapLink>
+                </MapLinks>
+                <LocationHours>10a-10p M-F || 10a-8p Sa,Su</LocationHours>
+                <Directions />
+                <AdditionalPublicInfo />
+            </Location>
+        </Locations>
+        <EventTypes>
+            <EventType>
+                <EventTypeID>70</EventTypeID>
+                <EventTypeName>Activity</EventTypeName>
+                <EventTypeDescription>Activity</EventTypeDescription>
+            </EventType>
+        </EventTypes>
+        <Languages>
+            <Language>en-US</Language>
+        </Languages>
+        <EventTransparency />
+        <Description>
+            Interested in getting the whole family climbing? Come learn the ropes as a team. Adults will learn how to belay as well as ways to make climbing a family activity. While the adults focus on practicing the technical skills, children will be introduced to harnesses and knots as they climb supervised by staff. Minimum age to belay is 16 years old. Any climbers participating who are younger than 16 will spend time climbing and getting comfortable in the facility and with equipment. Registration closes: 1/10/2020 @ 1pm UNL Students and CRec Members: $20 General Public: $25
+        </Description>
+        <ShortDescription />
+        <Refreshments />
+        <WebPages>
+            <WebPage>
+                <Title>Event Instance URL</Title>
+                <URL>//events.unl.edu/studentaffairs/2020/01/11/146245/</URL>
+            </WebPage>
+            <WebPage>
+                <Title>Event webpage</Title>
+                <URL>https://go.unl.edu/familybelay</URL>
+            </WebPage>
+        </WebPages>
+        <Images>
+            <Image>
+                <Title>Image</Title>
+                <Description>image for event 127508</Description>
+                <URL>//events.unl.edu/?image&id=127508</URL>
+            </Image>
+        </Images>
+        <EventListingContacts>
+            <EventListingContact>
+                <ContactName>
+                    <FullName>Todd Grier</FullName>
+                </ContactName>
+                <Phones>
+                    <Phone>
+                        <PhoneNumber>402-472-4777</PhoneNumber>
+                    </Phone>
+                </Phones>
+                <EmailAddresses>
+                    <EmailAddress>outdoorrec@unl.edu</EmailAddress>
+                </EmailAddresses>
+            </EventListingContact>
+        </EventListingContacts>
+        <EventStatus>Happening As Scheduled</EventStatus>
+        <Classification>Public</Classification>
+    </Event>
+</Events>
