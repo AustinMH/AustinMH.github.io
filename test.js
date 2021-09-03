@@ -1,4 +1,4 @@
-var tags = ["Live Speaker", "Free Food", "Live Music", "Swag", "Big Red Welcome", "Hide Me Right Now"]
+tvar tags = ["Live Speaker", "Free Food", "Live Music", "Swag", "Big Red Welcome", "Hide Me Right Now"]
 var uniqueEvents = 0;
 
 function launchEvents() {
